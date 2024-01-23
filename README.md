@@ -1,1 +1,1 @@
-Here is a React App that has a robot man who will wave at you.
+You can click the GHPages link to the right of this message to see multiple robots.
